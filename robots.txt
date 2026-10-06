@@ -1,0 +1,6 @@
+# Allow all search engine crawlers (Googlebot, Bingbot, etc.)
+User-agent: *
+Allow: /
+
+# Sitemap location (update domain when deploying to your Vercel URL)
+Sitemap: https://otobavi.vercel.app/sitemap.xml
